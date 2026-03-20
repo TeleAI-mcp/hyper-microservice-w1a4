@@ -1,2 +1,3 @@
-# hyper-microservice-w1a4
-Automated issue comment bot repository
+# Hyper Microservice W1A4
+
+Automated issue comment bot repository.
